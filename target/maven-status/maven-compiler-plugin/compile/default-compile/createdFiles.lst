@@ -1,0 +1,7 @@
+com\booktracker\servlet\ActionServlet.class
+com\booktracker\servlet\DashboardServlet.class
+com\booktracker\model\Borrower.class
+com\booktracker\model\Book.class
+com\booktracker\model\Issue.class
+com\booktracker\dao\TrackerDAO.class
+com\booktracker\util\DBUtil.class
